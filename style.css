@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffb8;
+    font-family: garamond,serif;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color: brown;
+}
+p{
+    color: #014421;
+    font-size: 20px;
+}
+.puppy{
+    border: 8px solid brown;
+    width: 60%;
+}
